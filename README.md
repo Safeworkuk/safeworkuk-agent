@@ -1,3 +1,4 @@
+Commit changes to main
 # SafeWorkUK Agent — OpenAI Self‑Hosted Starter
 
 This starter lets you run your **SafeWorkUK Agent** with the OpenAI API and embed a chat widget on your Squarespace site.
